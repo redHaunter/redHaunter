@@ -11,4 +11,6 @@ I'm a Robotics Researcher passionate about developing advanced robotic perceptio
 
 ---
 
+### Amazon Deepracer - Robot Perception Lab
+
 <table> <tr> <td> <img src="https://d1.awsstatic.com/deepracer/DR_Open-Source_Evo%20Image.14c6eb74f8b164e28d693a9e6538f9088a9a86b9.png" alt="Project Image" style="width:600px;"> </td> <td> <p>The AWS DeepRacer Evo is a 1/18th scale, Wi-Fi-enabled vehicle featuring four-wheel Ackermann steering. It is equipped with two RGB cameras and a 2D LiDAR sensor. As a research assistant in the Robot Perception Lab, I focused on using various configurations for navigation, simultaneous localization and mapping (SLAM), and control of the vehicle through the Robot Operating System (ROS).</p> <p><strong>Repository:</strong> <a href="https://github.com/redHaunter/aws-deepracer" target="_blank">View on GitHub</a></p> <p><strong>Webpage:</strong> <a href="https://aws.amazon.com/deepracer/" target="_blank">View Deepracer's Page</a></p> </td> </tr> </table>
